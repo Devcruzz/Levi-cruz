@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_cruz01/)
 
 
-### ![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCruz&show_icons=true&theme=radical)
+### ![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levi-cruz&show_icons=true&theme=radical)
 
 ## Tecnologias que uso constantemente :
 <div style= "display: inline_block">
